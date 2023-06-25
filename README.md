@@ -23,7 +23,6 @@ Here are some ideas to get you started:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/timothy-ray-576965208/)
 
 
-<>![Timothy Ray's GitHub stats](https://github-readme-stats.vercel.app/api?username=TimothyRay18&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TimothyRay18&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
